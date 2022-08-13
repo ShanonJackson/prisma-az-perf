@@ -1,0 +1,4 @@
+name: prisma-az-perf
+runtime: nodejs
+description: Infra for spark-iot-ui
+location: Australia East
